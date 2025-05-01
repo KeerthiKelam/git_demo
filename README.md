@@ -1,3 +1,6 @@
 # git_demo
 this is a readme file.
-This is for practicing git
+This is for practicing git 
+<br>
+author - Keerthi Kelam
+ 
